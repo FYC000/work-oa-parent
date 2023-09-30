@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe8bbe19-df89-4749-bb39-6ae50f4bde0c" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2U6N5YemQb4qO0N13ZoWVNE45L0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../android-sdk-windows" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/common-log/src/main/java/com/exapmle/log/mapper/xml" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1546875" />
+    <property name="project.structure.side.proportion" value="0.21067157" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\common\common-log\src\main\java\com\exapmle\log\mapper\xml" />
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\common\common-log\src\main\java\com\exapmle\log" />
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\service-oa\src\main\java\com\example\auth\service" />
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\service-oa\src\main\java\com\example\auth\service\impl" />
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\service-oa\src\main\java\com\example\auth\mapper\xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent\" />
+      <recent name="D:\JavaLearningProjection\cloud-work\work-oa-parent" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.auth.utils" />
+      <recent name="com.example.auth.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceOaApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.auth.CodeGet" />
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.commonutil.jwt.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.commonutil.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="processGatewayDemo00.completeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.auth.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.auth.activiti" />
+      <option name="MAIN_CLASS_NAME" value="com.example.auth.activiti.processGatewayDemo00" />
+      <option name="METHOD_NAME" value="completeTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="processGatewayDemo00.findTaskList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.auth.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.auth.activiti" />
+      <option name="MAIN_CLASS_NAME" value="com.example.auth.activiti.processGatewayDemo00" />
+      <option name="METHOD_NAME" value="findTaskList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="processGatewayDemo00.startProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.auth.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.auth.activiti" />
+      <option name="MAIN_CLASS_NAME" value="com.example.auth.activiti.processGatewayDemo00" />
+      <option name="METHOD_NAME" value="startProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.commonutil.CommonUtilApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.model.ModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ServiceOaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.serviceutil.ServiceUtilApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkOaParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="work-oa-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oa.workoaparent.WorkOaParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.JwtHelper" />
+        <item itemvalue="应用程序.CodeGet" />
+        <item itemvalue="JUnit.processGatewayDemo00.completeTask" />
+        <item itemvalue="JUnit.processGatewayDemo00.findTaskList" />
+        <item itemvalue="JUnit.processGatewayDemo00.startProcess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fe8bbe19-df89-4749-bb39-6ae50f4bde0c" name="变更" comment="" />
+      <created>1692255889729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692255889729</updated>
+      <workItem from="1692255892185" duration="617000" />
+      <workItem from="1692256578582" duration="356000" />
+      <workItem from="1692256988210" duration="241000" />
+      <workItem from="1692257252091" duration="1235000" />
+      <workItem from="1692259296234" duration="411000" />
+      <workItem from="1692259738695" duration="70000" />
+      <workItem from="1692259956575" duration="994000" />
+      <workItem from="1692260981244" duration="63000" />
+      <workItem from="1692261065559" duration="210000" />
+      <workItem from="1692261298242" duration="200000" />
+      <workItem from="1692261634901" duration="3492000" />
+      <workItem from="1692272361351" duration="6448000" />
+      <workItem from="1692345411256" duration="5156000" />
+      <workItem from="1692360764543" duration="605000" />
+      <workItem from="1692361548044" duration="6858000" />
+      <workItem from="1692513950872" duration="5111000" />
+      <workItem from="1692528440776" duration="8420000" />
+      <workItem from="1692600265665" duration="3593000" />
+      <workItem from="1692604505006" duration="4344000" />
+      <workItem from="1692609606930" duration="944000" />
+      <workItem from="1692617754786" duration="4782000" />
+      <workItem from="1692672788495" duration="1575000" />
+      <workItem from="1692677681336" duration="4274000" />
+      <workItem from="1692690713985" duration="3762000" />
+      <workItem from="1692695166041" duration="364000" />
+      <workItem from="1692707393904" duration="5190000" />
+      <workItem from="1692715624718" duration="764000" />
+      <workItem from="1692769717256" duration="4897000" />
+      <workItem from="1692792763526" duration="2806000" />
+      <workItem from="1692868096846" duration="18000" />
+      <workItem from="1692869918315" duration="177000" />
+      <workItem from="1692877787393" duration="10647000" />
+      <workItem from="1692961663742" duration="11715000" />
+      <workItem from="1693027835028" duration="2615000" />
+      <workItem from="1693032244967" duration="2882000" />
+      <workItem from="1693035792995" duration="2325000" />
+      <workItem from="1693049466691" duration="3467000" />
+      <workItem from="1693062591802" duration="567000" />
+      <workItem from="1693110963371" duration="6475000" />
+      <workItem from="1693120909472" duration="5049000" />
+      <workItem from="1693136097917" duration="7002000" />
+      <workItem from="1693208863209" duration="4040000" />
+      <workItem from="1693222564735" duration="11043000" />
+      <workItem from="1693288221986" duration="11150000" />
+      <workItem from="1693306894761" duration="3406000" />
+      <workItem from="1693311155268" duration="4296000" />
+      <workItem from="1693318742882" duration="117000" />
+      <workItem from="1694764576057" duration="3024000" />
+      <workItem from="1694774081445" duration="9981000" />
+      <workItem from="1694834238688" duration="771000" />
+      <workItem from="1694839285415" duration="593000" />
+      <workItem from="1694842012601" duration="6654000" />
+      <workItem from="1694853920425" duration="1186000" />
+      <workItem from="1694861649673" duration="2390000" />
+      <workItem from="1694956206909" duration="112000" />
+      <workItem from="1695376982544" duration="2533000" />
+      <workItem from="1695379940198" duration="127000" />
+      <workItem from="1696063643241" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring-security/src/main/java/com/example/security/filter/TokenLoginFilter.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring-security/src/main/java/com/example/security/filter/TokenAuthenticationFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring-security/src/main/java/com/example/security/filter/TokenLoginFilter.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.auth.controller.SysRoleController$$EnhancerBySpringCGLIB$$5d757438" memberName="service" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.auth.mapper.SysPostMapper">
+    <resultMap id="sysPostMap" type="com.example.model.system.SysPost" autoMapping="true"></resultMap>
+    <sql id="columns">
+        id,post_code,name,description,status,create_time,update_time,is_deleted
+    </sql>
+    <select id="selectPage" resultMap="sysPostMap">
+        select<include refid="columns"/>from sys_post
+        <where>
+            <if test="vo.name!=null and vo.name!=''">
+                and name like concat('%',#{vo.name},'%')
+            </if>
+            <if test="vo.postCode!=null and vo.postCode!=''">
+                and post_code like concat('%',#{vo.postCode},'%')
+            </if>
+            <if test="vo.status!=null and vo.status!=''">
+                and status like concat('%',#{vo.status},'%')
+            </if>
+            and is_deleted=0
+        </where>
+        order by id asc
+    </select>
+</mapper>

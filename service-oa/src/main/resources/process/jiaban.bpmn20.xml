@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:activiti="http://activiti.org/bpmn" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" typeLanguage="http://www.w3.org/2001/XMLSchema" expressionLanguage="http://www.w3.org/1999/XPath" targetNamespace="http://www.activiti.org/processdef">
+  <process id="jiaban" isExecutable="true">
+    <startEvent id="sid-88FC69C1-D419-4617-B42E-D9DA05884212"></startEvent>
+    <userTask id="sid-2CC83F5B-912A-4720-A63D-ECFEC04B897F" name="部门审批" activiti:assignee="${assignee1}"></userTask>
+    <userTask id="sid-DE1DF55E-AD1E-4C71-9034-43A87D8EA60A" name="经理审批" activiti:assignee="${assignee2}"></userTask>
+    <endEvent id="sid-9936A875-2A4C-4E6C-936A-16F1897A86B6"></endEvent>
+  </process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_jiaban">
+    <bpmndi:BPMNPlane bpmnElement="jiaban" id="BPMNPlane_jiaban">
+      <bpmndi:BPMNShape bpmnElement="sid-88FC69C1-D419-4617-B42E-D9DA05884212" id="BPMNShape_sid-88FC69C1-D419-4617-B42E-D9DA05884212">
+        <omgdc:Bounds height="30.0" width="30.0" x="179.999997317791" y="130.99999429285543"></omgdc:Bounds>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape bpmnElement="sid-2CC83F5B-912A-4720-A63D-ECFEC04B897F" id="BPMNShape_sid-2CC83F5B-912A-4720-A63D-ECFEC04B897F">
+        <omgdc:Bounds height="80.0" width="100.0" x="329.99999016523384" y="105.99999271333246"></omgdc:Bounds>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape bpmnElement="sid-DE1DF55E-AD1E-4C71-9034-43A87D8EA60A" id="BPMNShape_sid-DE1DF55E-AD1E-4C71-9034-43A87D8EA60A">
+        <omgdc:Bounds height="80.0" width="100.0" x="509.9999924004079" y="106.99999621510514"></omgdc:Bounds>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape bpmnElement="sid-9936A875-2A4C-4E6C-936A-16F1897A86B6" id="BPMNShape_sid-9936A875-2A4C-4E6C-936A-16F1897A86B6">
+        <omgdc:Bounds height="28.0" width="28.0" x="771.799964582921" y="131.99999074637932"></omgdc:Bounds>
+      </bpmndi:BPMNShape>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</definitions>

@@ -1,0 +1,3 @@
+# 项目排除路径
+/common/common-log/target/
+/common/spring-security/target/
